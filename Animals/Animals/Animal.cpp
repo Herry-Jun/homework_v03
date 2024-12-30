@@ -36,7 +36,7 @@ public:
     }
 };
 
-// 메인 함수
+ 메인 함수
 int main() {
     // Animal 포인터 벡터에 동물 객체들 저장
     vector<Animal*> animals;
